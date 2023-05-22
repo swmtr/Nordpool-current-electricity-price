@@ -6,7 +6,7 @@ If you have some solar panels or wind tourbine and sell your electricity, you mi
 
 This script will give you a heads up when the price goes below zero, so you can start utlizing your electricity at home instead of selling it for negative profit. In other words, start turning on the dryer, dish washer, of course sauna :). 
 
-## Prerequisites
+## Pre-requisites
 
 I am assuming, you are on a linux based system and you need to have Python, Telegram Bot and the Nordpool Library.
 
@@ -18,6 +18,8 @@ To install the Python Nordpool and Telegram library, run the following commands.
 pip install nordpool
 pip install python-telegram-bot
 ```
+
+Also, you will need your own Telegram bot (https://core.telegram.org/bots/tutorial)
 
 ## Automating the notifications
   
