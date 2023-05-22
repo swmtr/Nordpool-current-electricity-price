@@ -46,4 +46,4 @@ If you found this guide useful, why not let it be known by [sending me a few sat
 <br />
 <img src="https://360swim.com/user/themes/swimquark/images/ln_git.png" width="400" />
 
-At least you will test if I get notifications for my wallets :).
+Finally, if you are into swimming, checkout some <a href="https://360swim.com/tips" target="_blank">swimming tips</a>.
