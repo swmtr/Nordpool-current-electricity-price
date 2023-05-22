@@ -8,14 +8,15 @@ This script will give you a heads up when the price goes below zero, so you can 
 
 ## Prerequisites
 
-I am assuming, you are on a linux based system and you need to have Python and the Nordpool Library.
+I am assuming, you are on a linux based system and you need to have Python, Telegram Bot and the Nordpool Library.
 
 To install Python, just google it.
 
-To install the Nordpool library, run the following command.
+To install the Python Nordpool and Telegram library, run the following commands.
 
 ```
 pip install nordpool
+pip install python-telegram-bot
 ```
 
 ## Automating the notifications
