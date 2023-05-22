@@ -19,7 +19,11 @@ pip install nordpool
 pip install python-telegram-bot
 ```
 
-Also, you will need your own Telegram bot (https://core.telegram.org/bots/tutorial)
+Also, you will need your own Telegram bot (https://core.telegram.org/bots/tutorial) where you will get the bot token and chat id.
+
+## Python script
+
+Just grab the script from github and update your Telegram data in it, area for which you want electricity prices and the condition at what price level you want to be notified.
 
 ## Automating the notifications
   
