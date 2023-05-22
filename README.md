@@ -41,7 +41,7 @@ Don't forget to replace the path to your python file and to the location where y
 
 This cron schedule will execute the specified command at the 30th minute of every hour between 8 AM and 6 PM. Adjust the time range (8-18 in this example) to match your desired daytime hours. The last run time will be 18:30.
 
-## End Notes
+# End Notes
 
 This setup is just a hack to get notified. It is by no means perfect, but it will do the job.
 
