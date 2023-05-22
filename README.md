@@ -23,7 +23,10 @@ Also, you will need your own Telegram bot (https://core.telegram.org/bots/tutori
 
 ## Python script
 
-Just grab the script from github and update your Telegram data in it, area for which you want electricity prices and the condition at what price level you want to be notified.
+Just grab the script from github and update the following:
+- Telegram bot token and chat id
+- area for which you want electricity prices (see the nordpool website for the values)
+- the condition at what price level you want to be notified (currently set to <= 0)
 
 ## Automating the notifications
   
